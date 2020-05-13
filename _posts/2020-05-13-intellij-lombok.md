@@ -19,7 +19,7 @@ Lombok이 검색되지 않는 경우, 당황하지 않고 IntelliJ를 재기동 
         
 - 객체에 어노테이션 설정               
 모델 객체에는 @Data을 지정하여 Lombok 대상임을 명시한다.   
-클래스에 @Getter/@Setter를 지정하면 객체 내부 필드에 대해 모두 생성된다. 
+클래스에 @Getter/@Setter를 지정하면 객체 내부 필드에 대해 모두 생성된다.    
 ```java
 @Data
 @Getter@Setter
