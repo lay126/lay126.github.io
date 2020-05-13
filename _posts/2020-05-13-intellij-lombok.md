@@ -34,5 +34,5 @@ public class Menu {
 ![](https://github.com/lay126/lay126.github.io/blob/master/assets/images/intellij-lombok-2.png)
 
 
-#추가
+#### 추가
 이 외에 추가적으로, IntelliJ Preference > Build,Excution,Deploy > Complier > Annotaion Processors 에서 Enable Annotation Processing 이 활성화 되어있는지도 체크해 본다.
