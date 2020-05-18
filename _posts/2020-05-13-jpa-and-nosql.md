@@ -6,9 +6,9 @@ categories:
   - java
 tags:
   - java 
-  - springboot 
-  - lombok
-  - intelliJ
+  - spring boot
+  - jpa
+  - mongodb
 last_modified_at: 
 ---
 ## SPRING-BOOT, JPA, MONGODB 를 같이 쓰려고 했던 나의 뻘짓
