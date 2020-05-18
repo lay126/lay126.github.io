@@ -5,7 +5,10 @@ excerpt: "IntelliJ에서 Lombok으로 설정한 @Getter,@Setter에 대해 get/se
 categories:
   - java
 tags:
-  - java springboot lombok intelliJ
+  - java 
+  - springboot 
+  - lombok
+  - intelliJ
 last_modified_at: 
 ---
 ## IntelliJ에서 Lombok으로 설정한 @Getter,@Setter @Data에 대해 get/set메소드가 나타나지 않는 경우
