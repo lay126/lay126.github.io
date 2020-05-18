@@ -6,7 +6,7 @@ categories:
   - java
 tags:
   - java 
-  - springboot 
+  - spring boot 
   - lombok
   - intelliJ
 last_modified_at: 
